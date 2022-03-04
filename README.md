@@ -2,13 +2,13 @@
 
 Configuration are located in package com.shahid.mercans.assignment2.configuration.config.properties as shown below
 
-# Properties for connecting to database and pooling configuration
+Properties for connecting to database and pooling configuration
 mysql.url=
 mysql.username=
 mysql.password=
 mysql.maximumPoolSize=
 
-#file path for CSV
+file path for CSV
 file.path=
 
 Adjust the configuration as per your environment. 
