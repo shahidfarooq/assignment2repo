@@ -2,7 +2,7 @@
 
 Configuration are located in package com.shahid.mercans.assignment2.configuration.config.properties as shown below
 
-#Properties for connecting to database and pooling configuration
+# Properties for connecting to database and pooling configuration
 mysql.url=
 mysql.username=
 mysql.password=
